@@ -6,8 +6,6 @@
         <item name="colorPrimaryDark">#1976D2</item>
         <item name="colorAccent">#FF4081</item>
 
-        <item name="android:textColorPrimary">#212121</item>
-        <item name="android:textColorSecondary">#727272</item>
         <item name="android:navigationBarColor" tools:targetApi="21">#FF4081</item>
     </style>
 

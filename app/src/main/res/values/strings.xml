@@ -10,6 +10,8 @@
     <string name="ordenes_item">Ordenes</string>
     <string name="facturas_item">Facturas</string>
     <string name="log_out_item">Cerrar Sesión</string>
+    <string name="usuario">Fernanda Ochoa</string>
+    <string name="correo">fer.ochoa@def.mx</string>
     <string name="configuracion_item">Configuración</string>
 
 </resources>
